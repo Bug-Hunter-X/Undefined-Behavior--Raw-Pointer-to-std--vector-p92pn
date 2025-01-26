@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in C++: using raw pointers to access elements of a std::vector without considering reallocation. The `bug.cpp` file shows code that's vulnerable to this issue.  The `bugSolution.cpp` offers a safer alternative.
